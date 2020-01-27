@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/itdistrict/logrus"
 	"github.com/olivere/elastic/v7"
-	"github.com/sirupsen/logrus"
 )
 
 type NewHookFunc func(client *elastic.Client, host string, level logrus.Level, index string) (*ElasticHook, error)

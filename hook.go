@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/itdistrict/logrus"
 	"github.com/olivere/elastic/v7"
-	"github.com/sirupsen/logrus"
 )
 
 var (
