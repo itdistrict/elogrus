@@ -1,4 +1,4 @@
-module gopkg.in/sohlich/elogrus.v7
+module gopkg.in/itdistrict/elogrus
 
 go 1.12
 
