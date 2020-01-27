@@ -1,4 +1,4 @@
-module gopkg.in/itdistrict/elogrus
+module github.com/itdistrict/elogrus
 
 go 1.12
 
